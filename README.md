@@ -1,5 +1,12 @@
 # FIAP Tech Challenge - Fine-Tuning para Geração de Descrições de Produtos
 
+## Integrantes
+
+- Carolina de Marco Pessoa
+- Jadson Dantas de Medeiros Junior
+- João Mário Künzle Ribeiro Magalhães
+- Marcelo Guedes de Barros
+
 ## Sobre o Projeto
 
 Este projeto faz parte do **FIAP Tech Challenge** e tem como objetivo desenvolver um modelo de inteligência artificial capaz de gerar descrições de produtos automaticamente a partir de seus títulos. Utilizamos técnicas avançadas de fine-tuning em um modelo de linguagem para criar uma solução eficiente e escalável.
@@ -82,10 +89,3 @@ O dataset original continha:
 **Tempo de Treinamento**: ~17 horas
 **Parâmetros Treinados**: 12M de 3.2B (0.38%)
 **Uso de Memória**: ~13GB GPU
-
-## Equipe
-
-- Carolina de Marco Pessoa
-- Jadson Dantas de Medeiros Junior
-- João Mário Künzle Ribeiro Magalhães
-- Marcelo Guedes de Barros
